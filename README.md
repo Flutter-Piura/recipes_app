@@ -1,6 +1,9 @@
 # RecipesApp
 
-## Funcionalidades Principales  
+## NOTA IMPORTANTE
+- **Colaboración:** Este no es un proyecto culminado, sino una invitación a la creatividad y al trabajo en equipo. Queremos construir juntos algo increíble para la comunidad. ¡Tu aporte es valioso y puede marcar la diferencia! 🚀
+
+## Diseño de la app
 - **Búsqueda de Recetas:** Encuentra recetas rápidamente con el buscador integrado.
 - **Categorías de Comida:** Explora recetas organizadas por diferentes categorías culinarias.
 - **Listado de Chefs:** Descubre chefs destacados y sus recetas exclusivas.
@@ -12,14 +15,13 @@
 - **Funcionalidad del diseño:** Da funión al diseño como puedas.
 
 ## Funcionalidades que agregaremos
-- **Conectarlo con firebase:** Conecta el proyecto con firebase será una proxima mejora del equipo de Flutter Piura.
+- **Conectarlo con firebase:** Conectar el proyecto con firebase será una proxima mejora del equipo de Flutter Piura.
 
 ## Sreen de pantallas
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
     <img src="assets/1.png" alt="HomeScreen" width="400">
     <img src="assets/2.png" alt="DetailsProducto" width="400">
 </div>
-
 
 
 ## QR DE LA COMUNIDAD FLUTTER PIURA  
