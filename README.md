@@ -15,10 +15,11 @@
 - **Conectarlo con firebase:** Conecta el proyecto con firebase será una proxima mejora del equipo de Flutter Piura.
 
 ## Sreen de pantallas
-<div style="text-align: center;">
-    <img src="assets/1.png" alt="HomeScreen" width="400" style="display: inline-block; margin-right: 10px;">
-    <img src="assets/2.png" alt="DetailsProducto" width="400" style="display: inline-block;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/1.png" alt="HomeScreen" width="400">
+    <img src="assets/2.png" alt="DetailsProducto" width="400">
 </div>
+
 
 
 ## QR DE LA COMUNIDAD FLUTTER PIURA  
